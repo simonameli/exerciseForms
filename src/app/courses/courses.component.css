@@ -1,0 +1,16 @@
+.labels{
+  padding: 5px;
+}
+.areaText{
+  width: 90%;
+  margin-left: 5px;
+}
+.checkbox{
+  padding-top: 15px;
+  font-size: 13px;
+}
+.alertText{
+  font-size: 13px;
+  padding-top: 5px;
+  padding-left: 5px;
+}
